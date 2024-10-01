@@ -26,10 +26,10 @@ namespace Tyuiu.BerezkinAA.Sprint1.Task3.V1
             double r;
             double h;
 
-            Console.WriteLine("Введите высоту:");
+            Console.WriteLine("Введите радиус:");
             r = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Введите площадь основания:");
+            Console.WriteLine("Введите высоту:");
             h = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
