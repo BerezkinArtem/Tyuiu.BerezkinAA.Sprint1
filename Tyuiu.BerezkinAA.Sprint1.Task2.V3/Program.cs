@@ -23,6 +23,7 @@ namespace Tyuiu.BerezkinAA.Sprint1.Task2.V3
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                                *");
             Console.WriteLine("***********************************************************************************");
 
+
             int x;
 
             Console.WriteLine("Время в часах:");
