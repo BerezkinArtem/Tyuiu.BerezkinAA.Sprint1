@@ -11,13 +11,13 @@ namespace Tyuiu.BerezkinAA.Sprint1.Task2.V3
             Console.WriteLine("***********************************************************************************");
             Console.WriteLine("* Спринт #1                                                                       *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                                *");
-            Console.WriteLine("* Задание #1                                                                      *");
-            Console.WriteLine("* Вариант #18                                                                     *");
+            Console.WriteLine("* Задание #2                                                                      *");
+            Console.WriteLine("* Вариант #3                                                                     *");
             Console.WriteLine("* Выполнил: Березкин Артем Андреевич | ИСПб-24-1                                  *");
             Console.WriteLine("***********************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                        *");
             Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные,         *");
-            Console.WriteLine("* вычисляет результат по формуле (x * y) / (x + 1) - 3 и печатает его на экран    *");
+            Console.WriteLine("* выполняет указанные расчёты и печатает результат на экране.                     *");
             Console.WriteLine("*                                                                                 *");
             Console.WriteLine("***********************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                                *");
@@ -33,6 +33,7 @@ namespace Tyuiu.BerezkinAA.Sprint1.Task2.V3
             Console.WriteLine("***********************************************************************************");
 
             Console.WriteLine("Время в минутах:" + ds.ConvertHourToMin(x));
+            Console.ReadKey();
 
         }
     }
