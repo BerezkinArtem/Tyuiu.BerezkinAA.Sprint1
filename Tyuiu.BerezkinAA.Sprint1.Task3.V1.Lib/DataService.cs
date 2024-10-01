@@ -6,7 +6,7 @@ namespace Tyuiu.BerezkinAA.Sprint1.Task3.V1.Lib
     {
         public double CylinderVolume(double r, double h)
         {
-            return Math.Round(Math.PI * r * r * h, 2);  
+            return Math.Round(Math.PI * r * r * h, 3);  
         }
     } 
     

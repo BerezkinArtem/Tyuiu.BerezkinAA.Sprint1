@@ -21,19 +21,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BerezkinAA.Sprint1.Ta
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{64F77601-0509-4551-BBFE-76008BA1E5F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BerezkinAA.Sprint1.Task2.V3", "Tyuiu.BerezkinAA.Sprint1.Task2.V3\Tyuiu.BerezkinAA.Sprint1.Task2.V3.csproj", "{AA352837-6C44-4433-8373-AE1F3EC99481}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BerezkinAA.Sprint1.Task2.V3", "Tyuiu.BerezkinAA.Sprint1.Task2.V3\Tyuiu.BerezkinAA.Sprint1.Task2.V3.csproj", "{AA352837-6C44-4433-8373-AE1F3EC99481}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BerezkinAA.Sprint1.Task2.V3.Lib", "Tyuiu.BerezkinAA.Sprint1.Task2.V3.Lib\Tyuiu.BerezkinAA.Sprint1.Task2.V3.Lib.csproj", "{F994762D-B234-4A64-B7E0-B1EE8C7BFEE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BerezkinAA.Sprint1.Task2.V3.Lib", "Tyuiu.BerezkinAA.Sprint1.Task2.V3.Lib\Tyuiu.BerezkinAA.Sprint1.Task2.V3.Lib.csproj", "{F994762D-B234-4A64-B7E0-B1EE8C7BFEE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BerezkinAA.Sprint1.Task2.V3.Test", "Tyuiu.BerezkinAA.Sprint1.Task2.V3.Test\Tyuiu.BerezkinAA.Sprint1.Task2.V3.Test.csproj", "{01D3BFEC-F4BC-4EA0-8194-3FD08EB3B77E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BerezkinAA.Sprint1.Task2.V3.Test", "Tyuiu.BerezkinAA.Sprint1.Task2.V3.Test\Tyuiu.BerezkinAA.Sprint1.Task2.V3.Test.csproj", "{01D3BFEC-F4BC-4EA0-8194-3FD08EB3B77E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{68717CDC-4D93-415D-B456-38FA7978C255}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BerezkinAA.Sprint1.Task3.V1.Test", "Tyuiu.BerezkinAA.Sprint1.Task3.V1.Test\Tyuiu.BerezkinAA.Sprint1.Task3.V1.Test.csproj", "{05D7A9B0-B8F5-4E1E-A3EB-D4564471E3F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BerezkinAA.Sprint1.Task3.V1.Test", "Tyuiu.BerezkinAA.Sprint1.Task3.V1.Test\Tyuiu.BerezkinAA.Sprint1.Task3.V1.Test.csproj", "{05D7A9B0-B8F5-4E1E-A3EB-D4564471E3F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BerezkinAA.Sprint1.Task3.V1.Lib", "Tyuiu.BerezkinAA.Sprint1.Task3.V1.Lib\Tyuiu.BerezkinAA.Sprint1.Task3.V1.Lib.csproj", "{F6686A4F-84DB-4AE1-B362-6269B95A3499}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BerezkinAA.Sprint1.Task3.V1.Lib", "Tyuiu.BerezkinAA.Sprint1.Task3.V1.Lib\Tyuiu.BerezkinAA.Sprint1.Task3.V1.Lib.csproj", "{F6686A4F-84DB-4AE1-B362-6269B95A3499}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BerezkinAA.Sprint1.Task3.V1", "Tyuiu.BerezkinAA.Sprint1.Task3.V1\Tyuiu.BerezkinAA.Sprint1.Task3.V1.csproj", "{583C7E35-8671-4EE0-9823-038BA35FD09D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BerezkinAA.Sprint1.Task3.V1", "Tyuiu.BerezkinAA.Sprint1.Task3.V1\Tyuiu.BerezkinAA.Sprint1.Task3.V1.csproj", "{583C7E35-8671-4EE0-9823-038BA35FD09D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
