@@ -10,7 +10,7 @@ namespace Tyuiu.BerezkinAA.Sprint1.Task3.V1
             Console.Title = "Спринт #1 | Выполнил: Березкин А. А. | ИСПб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+            Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #1                                                              *");
             Console.WriteLine("* Выполнил: Березкин Артем Андреевич | ИСПб-24-1                          *");
