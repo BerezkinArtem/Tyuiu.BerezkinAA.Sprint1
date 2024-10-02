@@ -10,9 +10,9 @@ namespace Tyuiu.BerezkinAA.Sprint1.Task2.V3
             Console.Title = "Спринт #1 | Выполнил: Березкин А. А. | ИСПб-24-1";
             Console.WriteLine("***********************************************************************************");
             Console.WriteLine("* Спринт #1                                                                       *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                                *");
+            Console.WriteLine("* Тема: Арифметичские операторы в C#                                              *");
             Console.WriteLine("* Задание #2                                                                      *");
-            Console.WriteLine("* Вариант #3                                                                     *");
+            Console.WriteLine("* Вариант #3                                                                      *");
             Console.WriteLine("* Выполнил: Березкин Артем Андреевич | ИСПб-24-1                                  *");
             Console.WriteLine("***********************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                        *");
